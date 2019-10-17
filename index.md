@@ -1,9 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Noah Matzen - Project Reports and More
 ---
-# Test
+## **Welcome**
 
-Testing again
+My name is Noah Matzen (20), and I'm from Denmark.
+
+This website will be used to publish project reports that I will write, to have my programming process written down somewhere.  
+These reports will be for a variety of different programs, all intended to facilitate my learning.  
+
+Python 3 will be the language these programs are written in (for now).
