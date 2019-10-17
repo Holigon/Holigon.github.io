@@ -28,7 +28,7 @@ twitter_username: Holygon1
 github_username:  Holigon
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
