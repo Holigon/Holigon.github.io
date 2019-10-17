@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Noah Matzen - Project Reports and More
+title: Home
 ---
 ## **Welcome**
 

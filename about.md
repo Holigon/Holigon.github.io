@@ -10,10 +10,10 @@ I've always been passionate about computers - been in front of one since I was 3
 I also believe that a lot of these advancements on the horizon need to be understood from an ethical perspective, as to establish moral guidelines.
 
 I'm currently in the process of learning Python, and hope to join some open source projects in the future to develop my skills in both the language, but also the field of programming.  
-While my understanding of actual code development is limited, I do consider myself to be knowledgeable on the current developments of the field, as I like to keep up.  
+While my understanding of actual code development is limited, I do consider myself to be knowledgeable on the current developments of the field, as I like to keep up.
 
 ---
-
+\
 My interests on the subject of CS are: **Computer Security**, **Machine Learning**, and **The Ethics of Technological Advancement**.
 
 And if you're interested in my philosophy interest, they include: **Political Science**, **Existentialism**, **Transhumanism**, and everything **Albert Camus** has written.
