@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<center><img src="./assets/profile.jpg" alt="Noah Matzen" width="200"></center>
-
----
-
 My name is Noah. I'm 20 years old, and I'm from Denmark!
 I'm pursuing an education in **Computer Science** at the Aarhus University in Denmark. After this, I hope to also pursue an education in **Philosophy**.  
 I've always been passionate about computers - been in front of one since I was 3 years old - and I have a great deal of respect for math. I'd like to eventually work in the research field, as I believe there is a lot of uncharted territory left when it comes to Computer Science.  
