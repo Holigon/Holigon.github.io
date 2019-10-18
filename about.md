@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<center><img src="./assets/img/profile.jpg" alt="Noah Matzen" width="200"></center>
+<center><img src="./assets/profile.jpg" alt="Noah Matzen" width="200"></center>
 
 ---
 
